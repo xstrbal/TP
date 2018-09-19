@@ -2,4 +2,6 @@
 
 Vitajte na stránke Tímového projektu.
 
-[Tím](https://github.com/xstrbal/TP/blob/master/aboutus)
+[Tím](https://xstrbal.github.io/TP/aboutus)
+
+[Zápisnice](https://xstrbal.github.io/TP/zapisnice)
