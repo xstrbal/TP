@@ -1,3 +1,3 @@
-[Ponuka](https://xstrbal.github.io/TP/Tímový projekt)
+[Ponuka](https://xstrbal.github.io/TP/Tímový projekt.pdf)
 
-[Dešifrovanie v QC-LDPC McElieceovom kryptosystéme](https://xstrbal.github.io/TP/Tímový projekt)
+[Dešifrovanie v QC-LDPC McElieceovom kryptosystéme](https://xstrbal.github.io/TP/Tímový projekt.pdf)
