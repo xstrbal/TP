@@ -6,7 +6,7 @@ Literatúra od zadávateľov TP:
 
 + [A Key Recovery Attack on MDPC with CCA Security Using Decoding Errors](https://xstrbal.github.io/TP/A Key Recovery Attack on MDPC with CCA Security Using Decoding Errors.pdf)
 
-Našiel som na nete: 
+Ďalšie dostupné zdroje: 
 
 + [McEliece s LDPC kódmi](https://xstrbal.github.io/TP/McEliece s LDPC kódmi.pdf)
 
