@@ -1,4 +1,4 @@
-# Dešifrovanie v QC-LDPC McElieceovom kryptosystéme.
+# Dešifrovanie v QC-LDPC McElieceovom kryptosystéme
 
 ### Anotácia tímového projektu
 
@@ -6,9 +6,7 @@ Pokrok vo vývoji kvantového počítača má vážne dôsledky aj pre kryptogra
 
 [Zápisnice](https://xstrbal.github.io/TP/zapisnice)
 
-[Literatúra](https://xstrbal.github.io/TP/literature)
-
-[Dokumentácia](https://xstrbal.github.io/TP/docs)
+[Literatúra](https://xstrbal.github.io/TP/literature) a [Dokumentácia](https://xstrbal.github.io/TP/docs)
 
 [Riešiteľský kolektív](https://xstrbal.github.io/TP/aboutus)
 
