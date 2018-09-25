@@ -15,4 +15,4 @@ spodku strany 15)
 ### 25.9.2018 - 2.10.2018
 
 + pokračovanie v študovaní literatúry
-+ vytvorenia ponuky pre zadávateľov tímového projektu (do polovice októbra)
++ vytvorenie ponuky pre zadávateľov tímového projektu (do polovice októbra)
