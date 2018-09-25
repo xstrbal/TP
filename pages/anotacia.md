@@ -4,8 +4,8 @@ Viacero návrhov zaslaných do súťaže je založených na QC-LDPC McElieceovom
 
 ## Úlohy:
 
-Naštudujte princípy fungovania QC-LDPC McElieceovho kryptosystému.
++ Naštudujte princípy fungovania QC-LDPC McElieceovho kryptosystému.
 
-Oboznámte sa s implementáciou QC-LDPC McElieceovho kryptosystému v knižnici BitPunch (implementácia je v jazyku C).
++ Oboznámte sa s implementáciou QC-LDPC McElieceovho kryptosystému v knižnici BitPunch (implementácia je v jazyku C).
 
-Porovnajte efektívnosť dvoch vyššie spomenutých metód na odstránenie chyby zo správy zašifrovanej QC-LDPC McElieceovym kryptosystémom.
++ Porovnajte efektívnosť dvoch vyššie spomenutých metód na odstránenie chyby zo správy zašifrovanej QC-LDPC McElieceovym kryptosystémom.
