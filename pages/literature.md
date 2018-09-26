@@ -18,7 +18,7 @@ Literatúra od zadávateľov TP:
 
 Záverečné práce vypracované na našom ústave, ktoré súvisia s kryptosystémom McEliece:
 
-+ [QC-MDPC McEliece na mikroprocesor](https://xstrbal.github.io/TP/documents/QC-MDPC McEliece na mikroprocesor.pdf)
++ [QC-MDPC McEliece na mikroprocesore](https://xstrbal.github.io/TP/documents/QC-MDPC McEliece na mikroprocesore.pdf)
 
 + [Secure implementation of McEliece Cryptosystem](https://xstrbal.github.io/TP/documents/Secure implementation of McEliece Cryptosystem.pdf)
 
