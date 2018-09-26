@@ -15,3 +15,17 @@ Literatúra od zadávateľov TP:
 + [Asymetrický šifrovací algoritmus McEliece](https://xstrbal.github.io/TP/documents/Asymetrický šifrovací algoritmus McEliece.pdf)
 
 + [Lehký úvod do dvou algoritmů postkvantové kryptografie](https://xstrbal.github.io/TP/documents/Lehký úvod do dvou algoritmů postkvantové kryptografie.pdf)
+
+Záverečné práce vypracované na našom ústave, ktoré súvisia s kryptosystémom McEliece:
+
++ [QC-MDPC McEliece na mikroprocesor](https://xstrbal.github.io/TP/documents/QC-MDPC McEliece na mikroprocesor.pdf)
+
++ [Secure implementation of McEliece Cryptosystem](https://xstrbal.github.io/TP/documents/Secure implementation of McEliece Cryptosystem.pdf)
+
++ [Implementácia QC-MDPC McEliecovho kryptosystému](https://xstrbal.github.io/TP/documents/Implementácia QC-MDPC McEliecovho kryptosystému.pdf)
+
++ [Side Channels in SW Implementation of the McEliece PKC](https://xstrbal.github.io/TP/documents/Side Channels in SW Implementation of the McEliece PKC.pdf)
+
++ [Využitie McElieceovho kryptosystému v prostredí OS Android](https://xstrbal.github.io/TP/documents/Využitie McElieceovho kryptosystému v prostredí OS Android.pdf)
+
++ [Implementácia kryptografickej knižnice s McEliece kryptosystémom](https://xstrbal.github.io/TP/documents/Implementácia kryptografickej knižnice s McEliece kryptosystémom.pdf)
