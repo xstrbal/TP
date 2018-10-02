@@ -20,4 +20,4 @@ spodku strany 15)
 
 ### 02.10.2018 - 09.10.2018
 
-+ V diplomovej práci [Implementácia QC-MDPC McEliecovho kryptosystému](https://xstrbal.github.io/TP/documents/Implementácia QC-MDPC McEliecovho kryptosystému.pdf) si máme preštudovať kapitovu č. 1 (Analýza)
++ V diplomovej práci [Implementácia QC-MDPC McEliecovho kryptosystému](https://xstrbal.github.io/TP/documents/Implementácia QC-MDPC McEliecovho kryptosystému.pdf) si máme preštudovať kapitolu č. 1 (Analýza)
