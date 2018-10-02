@@ -16,3 +16,8 @@ spodku strany 15)
 
 + pokračovanie v študovaní literatúry
 + vytvorenie ponuky pre zadávateľov tímového projektu (do polovice októbra)
+
+
+### 02.10.2018 - 09.10.2018
+
++ V diplomovej práci [Implementácia QC-MDPC McEliecovho kryptosystému](https://xstrbal.github.io/TP/documents/Implementácia QC-MDPC McEliecovho kryptosystému.pdf) si máme preštudovať kapitovu č. 1 (Analýza)
