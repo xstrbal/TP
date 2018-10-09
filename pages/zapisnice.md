@@ -3,3 +3,5 @@
 25.09.2018 - [Zápisnica č. 2](https://xstrbal.github.io/TP/zapisnice/zapisnica2.pdf)
 
 02.10.2018 - [Zápisnica č. 3](https://xstrbal.github.io/TP/zapisnice/zapisnica3.pdf)
+
+09.10.2018 - [Zápisnica č. 3](https://xstrbal.github.io/TP/zapisnice/zapisnica4.pdf)
