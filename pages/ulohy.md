@@ -28,3 +28,7 @@ spodku strany 15)
 
 [BitPunch](https://github.com/FrUh/BitPunch)
 + postupné študovanie knižnice BitPunch napísanej v jazyku C
+
+### 16.10.2018 - 23.10.2018
+
+  +
