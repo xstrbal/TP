@@ -31,4 +31,4 @@ spodku strany 15)
 
 ### 16.10.2018 - 23.10.2018
 
-+ ...
++ pokračovať v študovaní vybraných Bit Flipping algoritmov
