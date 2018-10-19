@@ -29,6 +29,11 @@ spodku strany 15)
 [BitPunch](https://github.com/FrUh/BitPunch)
 + postupné študovanie knižnice BitPunch napísanej v jazyku C
 
+
 ### 16.10.2018 - 23.10.2018
 
 + pokračovať v študovaní vybraných Bit Flipping algoritmov
+
+### 23.10.2018 - 6.11.2018
+
++ prázdniny :)
