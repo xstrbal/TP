@@ -36,4 +36,5 @@ spodku strany 15)
 
 ### 23.10.2018 - 6.11.2018
 
++ pokračovanie v študovaní zdrojových kódov implementácie 
 + prázdniny :)
