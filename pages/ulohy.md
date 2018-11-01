@@ -34,7 +34,13 @@ spodku strany 15)
 
 + pokračovať v študovaní vybraných Bit Flipping algoritmov
 
+
 ### 23.10.2018 - 6.11.2018
 
 + pokračovanie v študovaní zdrojových kódov implementácie 
 + prázdniny :)
+
+
+### 6.11.2018 - 13.11.2018
+
++ ...
