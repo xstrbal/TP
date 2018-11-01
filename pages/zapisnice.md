@@ -9,3 +9,5 @@
 16.10.2018 - [Zápisnica č. 5](https://xstrbal.github.io/TP/zapisnice/zapisnica5.pdf)
 
 23.10.2018 - [Zápisnica č. 6](https://xstrbal.github.io/TP/zapisnice/zapisnica6.pdf)
+
+06.11.2018 - [Zápisnica č. 7](https://xstrbal.github.io/TP/zapisnice/zapisnica6.pdf)
