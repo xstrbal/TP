@@ -1,3 +1,5 @@
+## Harmonogram úloh
+
 ### 17.9.2018 - 25.9.2018
 
 [Coding Theory](https://xstrbal.github.io/TP/documents/Coding Theory.pdf)
