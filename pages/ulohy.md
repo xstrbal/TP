@@ -43,4 +43,9 @@ spodku strany 15)
 
 ### 6.11.2018 - 13.11.2018
 
++ rozdelenie a písanie dokumentácie
++ štúdium zdrojových kódov
+
+### 13.11.2018 - 20.11.2018
+
 + ...
