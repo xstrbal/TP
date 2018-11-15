@@ -50,4 +50,4 @@ spodku strany 15)
 
 ### 13.11.2018 - 20.11.2018
 
-+ ...
++ opravenie chýb v dokumentácii
