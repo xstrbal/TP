@@ -13,3 +13,5 @@
 06.11.2018 - Konzultácia nebola
 
 13.11.2018 - [Zápisnica č. 7](https://xstrbal.github.io/TP/zapisnice/zapisnica6.pdf)
+
+20.11.2018 - [Zápisnica č. 8](https://xstrbal.github.io/TP/zapisnice/zapisnica6.pdf)
