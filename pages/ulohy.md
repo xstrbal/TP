@@ -48,6 +48,12 @@ spodku strany 15)
 + rozdelenie a písanie dokumentácie
 + štúdium zdrojových kódov
 
+
 ### 13.11.2018 - 20.11.2018
 
 + opravenie chýb v dokumentácii
+
+
+### 20.11.2018 - 27.11.2018
+
++ opravenie drobných chýb v dokumentácii
