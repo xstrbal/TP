@@ -14,4 +14,6 @@
 
 13.11.2018 - [Zápisnica č. 7](https://xstrbal.github.io/TP/zapisnice/zapisnica7.pdf)
 
-20.11.2018 - [Zápisnica č. 8](https://xstrbal.github.io/TP/zapisnice/zapisnica7.pdf)
+20.11.2018 - [Zápisnica č. 8](https://xstrbal.github.io/TP/zapisnice/zapisnica8.pdf)
+
+27.11.2018 - [Zápisnica č. 9](https://xstrbal.github.io/TP/zapisnice/zapisnica8.pdf)
