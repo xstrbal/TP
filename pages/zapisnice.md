@@ -10,6 +10,8 @@
 
 23.10.2018 - [Zápisnica č. 6](https://xstrbal.github.io/TP/zapisnice/zapisnica6.pdf)
 
+30.10.2018 - Konzultácia odpadla (prázdniny)
+
 06.11.2018 - Konzultácia nebola
 
 13.11.2018 - [Zápisnica č. 7](https://xstrbal.github.io/TP/zapisnice/zapisnica7.pdf)
