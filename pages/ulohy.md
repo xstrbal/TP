@@ -57,3 +57,8 @@ spodku strany 15)
 ### 20.11.2018 - 27.11.2018
 
 + opravenie drobných chýb v dokumentácii
+
+### 27.11.2018 - 4.12.2018
+
++ pridanie citáciíí
++ pokračovanie v implementácii projektu
