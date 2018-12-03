@@ -60,5 +60,12 @@ spodku strany 15)
 
 ### 27.11.2018 - 4.12.2018
 
-+ pridanie citáciíí
++ pridanie citácií
 + pokračovanie v implementácii projektu
+
+### 4.12.2018 - ??.1.2019
+
++ dokončenie implementácie
++ spísanie dokumentácie
++ vytvorenie posudku pre iný tím
++ príprava na prezentáciu
